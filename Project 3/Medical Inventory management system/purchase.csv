@@ -1,0 +1,7 @@
+medi_name,med_id,unit,quantity,pur_date,pur_month,pur_year,sup_id,cost
+Allegra,1,50,20,7,12,2018,1,1000
+Crocin,2,8,100,7,12,2018,1,800
+Uprise,3,100,20,7,12,2018,1,2000
+Calpol,4,70,20,7,12,2018,1,1400
+Beudamate200,5,110,15,7,12,2018,1,1650
+Dp,3,45,4,24,5,2019,2,180
