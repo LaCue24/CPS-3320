@@ -1,1 +1,1 @@
-
+In this is a project, I created a simple medical inventory system in python. The medical inventory system I created is capable of dealing with massive inventories of an owner maintaining a medicinal shop record. It was created to be used to track the inventory of a medicinal store, or to manipulate the distribution medicine to customers. The program simply facts sales and restocking data. The aim is to lessen the strain of monitoring rather than to address all shop upkeep. The assignment inventory control system is an entire laptop-based application. 
