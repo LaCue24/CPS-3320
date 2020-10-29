@@ -1,0 +1,1 @@
+In this color detection Python project, I build an application that can automatically get the name of the color once clicked. I will have a data file that contains the color name and its values. It will calculate the distance from each color and find the shortest one.
